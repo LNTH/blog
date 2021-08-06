@@ -7,6 +7,7 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    output_location: "./"
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
