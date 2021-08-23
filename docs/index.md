@@ -1,4 +1,4 @@
 ---
 template: overrides/home.html
-title: TestBlog2
+title: Test Blog2
 ---
